@@ -1,6 +1,11 @@
 # COCA 6000 Vocabulary Cards
 
+
 基于 COCA（Corpus of Contemporary American English）高频词表制作的英语单词卡片与欧路词典扩充词库。
+
+<p align="center">
+  <img src="assets/logo.png" width="160" alt="Logo">
+</p>
 
 ## 项目简介
 
